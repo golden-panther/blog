@@ -1,8 +1,11 @@
 ---
-layout: post
+title: "Post: Standard"
 title: "The Bad, the Good and the Ugly"
 date: 2025-08-27
-categories: thoughts
+categories:
+    - Blog
+tags:
+    - thoughts
 ---
 Hello world! This is my first blog post.
 
