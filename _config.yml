@@ -59,9 +59,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "An engineer with good motives."
   links:
-    - label: "Website"
+    - label: "Micro Blog"
       icon: "fas fa-fw fa-link"
-      url: "https://golden-panther.github.io/blog/"
+      url: "https://golden-panther.bearblog.dev/blog/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/GnanendraAi"
