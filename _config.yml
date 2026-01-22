@@ -20,6 +20,7 @@ twitter_username: GnanendraAi
 github_username: golden-panther
 minimal_mistakes_skin: dark
 search: true
+repository: golden-panther/blog
 
 # Build settings
 markdown: kramdown
