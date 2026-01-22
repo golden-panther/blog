@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: gnanendra_avvaru
 description: >- # this means to ignore newlines until "baseurl:"
-  An engineer with good motives. And here are my thoughts and learnings.
+  Engineer. Burning Ignorance. And here are my thoughts and learnings. Checkout the microblog. That is where I post frequently.
 twitter_username: GnanendraAi
 github_username: golden-panther
 minimal_mistakes_skin: dark
