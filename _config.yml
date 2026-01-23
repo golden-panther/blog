@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Gnanendra Avvaru"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An engineer with good motives."
+  bio    : "Engineer. Burning Ignorance. And here are my thoughts and learnings. Checkout the microblog. That is where I post frequently."
   links:
     - label: "Micro Blog"
       icon: "fas fa-fw fa-link"
